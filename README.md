@@ -1,6 +1,6 @@
 # Hi, I'm Jzeus222 | Quant-Focused Marketing & Data Analyst
 
-I am a final-year **Marketing Management BCom student** and a **+3-years financial market trader** specializing in institutional algorithmic mechanics. I bridge the gap between commercial growth strategy and technical data analytics. While my formal university curriculum focuses on market dynamics and business scale, I have independently self-taught a technical stack to model complex financial datasets, write structured SQL databases, and build interactive analytics consoles.
+I am a final-year **Marketing Management BCom student** and a **+3-years financial market speculator** specializing in institutional algorithmic mechanics. I bridge the gap between commercial growth strategy and technical data analytics. While my formal university curriculum focuses on market dynamics and business scale, I have independently self-taught a technical stack to model complex financial datasets, write structured SQL databases, and build interactive analytics consoles.
 
 ---
 
