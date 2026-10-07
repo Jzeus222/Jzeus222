@@ -17,7 +17,7 @@ I am a final-year **Marketing Management BCom student** who bridges the gap betw
 * **📈 Marketing Optimization (Coco Bliss):** A commercial analytics study leveraging SQL and Python to drive data-backed SME expansion and marketing ROI performance.
 * **🐍 Heaven-Sent UI System:** A custom object-oriented graphics rendering engine built entirely from scratch in Python utilizing vector math logic and Pygame structures.
 
-Known As Jesus Kazaji
+ Known As Jesus Kazaji
 <!--
 **Jzeus222/Jzeus222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
