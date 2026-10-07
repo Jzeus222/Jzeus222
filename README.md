@@ -1,34 +1,38 @@
-# 👋 Hi, I'm Jzeus | Marketing Analyst & Data Engineer 🚀
+# 👋 Hi, I'm Jzeus222 | Quant-Focused Marketing & Data Analyst 🚀
 
-I am a final-year **Marketing Management BCom student** who bridges the gap between commercial strategy and deep technical data infrastructure. While my degree focuses on market dynamics, consumer behavior, and business growth, I have independently self-taught an advanced engineering stack to build automated data pipelines and visual intelligence engines.
+I am a final-year **Marketing Management BCom student** and a **+3-year financial market trader** specializing in institutional algorithmic mechanics. I bridge the gap between commercial growth strategy and technical data analytics. While my formal university curriculum focuses on market dynamics and business scale, I have independently self-taught a technical stack to model complex financial datasets, write structured SQL databases, and build interactive analytics consoles.
 
 ---
 
-## 🛠️ My Technical Toolbox
-* **Data Engineering & Scripting:** Python (Pandas, NumPy, OOP, Pygame Framework)
-* **Database Management:** Microsoft SQL Server, T-SQL (Advanced Schema Design, Views, Query Optimization)
+## 🛠️ My Technical & Analytical Toolbox
+* **Data Analytics & Scripting:** Python (Pandas, NumPy, OOP, Pygame Framework)
+* **Database Management:** Microsoft SQL Server, T-SQL (Advanced Schema Design, Analytical Views, Query Optimization)
 * **Business Intelligence:** Power BI (Semantic Star-Schema Modeling, Custom DAX Expressions)
-* **Core Competencies:** Commercial Optimization, SME Growth Analytics, Data-Driven Marketing Strategy
+* **Domain Subject Matter Expertise:** Institutional Market Structure (SMC / ICT Mechanics), Order Block (OB) & Fair Value Gap (FVG) Validation Analytics, Commercial Optimization, Data-Driven Marketing Strategy
 
 ---
 
 ## 🏗️ Featured Portfolio Pillars
-* **📊 Trading History Analytics:** An end-to-end data pipeline moving raw log data through Python ETL automation into an optimized SQL Server warehouse, surfaced via an active Power BI financial risk console.
-* **📈 Marketing Optimization (Coco Bliss):** A commercial analytics study leveraging SQL and Python to drive data-backed SME expansion and marketing ROI performance.
-* **🐍 Heaven-Sent UI System:** A custom object-oriented graphics rendering engine built entirely from scratch in Python utilizing vector math logic and Pygame structures.
 
- Known As Jesus Kazaji
-<!--
-**Jzeus222/Jzeus222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Trading History Analytics & Risk Engine (SMC / ICT Audit)
+An end-to-end data pipeline engineered to audit trading performance metrics across institutional structural setups.
+* **The ETL Pipeline:** Built a custom Python automation script to ingest and sanitize raw platform execution logs, enforcing strict type safety on float values.
+* **The SQL Server Layer:** Modeled an ACID-compliant relational schema (`TradingIntelligenceDB`). Offloaded heavy compute tasks by building database views (`v_WinLossMetrics`) that filter exclusively on `Exit` execution legs, programmatically eliminating double-counting anomalies from raw entry/exit transaction data pairs.
+* **The BI Risk Core:** Surfaced data in Power BI utilizing a Star Schema and custom DAX calculations to track institutional parameters—including dynamic strategy win rates and a running historical peak-to-trough account drawdown monitor.
 
-Here are some ideas to get you started:
+### 📈 Marketing Optimization Case Study (Coco Bliss)
+A commercial business intelligence study leveraging SQL and Python data packages to audit operational performance vectors for a small-and-medium enterprise, parsing consumer behavioral matrices to maximize marketing ROI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Heaven-Sent UI System
+A custom object-oriented graphics rendering engine built entirely from scratch in Python utilizing vector math logic and Pygame framework architectures.
+
+---
+
+## ⚡ Growth Mindset & Continuous Learning
+* **Always expanding my stack:** Having built this entire portfolio through self-directed learning, I am constantly exploring new technologies. I am currently diving into cloud data environments and advanced data automation tracking frameworks.
+* **Open to Opportunities:** Eager to bring this blend of technical analytical engineering and commercial marketing strategy into a high-impact **Data Analyst**, **BI Analyst**, or **Marketing Revenue Analyst** role.
+  
+---
+
+### 👨‍💻 Developed by **Jesus Kazaji**
+*Connect with me if you'd like to collaborate or chat about data analytics, financial market structures, or growth marketing strategies!*
