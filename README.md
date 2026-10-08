@@ -36,3 +36,4 @@ A custom object-oriented graphics rendering engine built entirely from scratch i
 
 ### Developed by **Jesus Kazaji**
 *Connect with me if you'd like to collaborate or chat about data analytics, financial market structures, or growth marketing strategies!*
+* **Email:** *[jesusujjkazaji@gmail.com]*
