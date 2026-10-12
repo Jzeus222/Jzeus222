@@ -1,39 +1,22 @@
-# Hi, I'm Jzeus222 | Quant-Focused Marketing & Data Analyst
+# Jesus Kazaji | Marketing & Data Analytics
 
-I am a **Marketing Management BCom student** and a **+3-years financial market speculator** specializing in institutional algorithmic mechanics. I bridge the gap between commercial growth strategy and technical data analytics. While my formal university curriculum focuses on market dynamics and business scale, I have independently self-taught a technical stack to model complex financial datasets, write structured SQL databases, and build interactive analytics consoles.
+BCom Marketing Management student building practical analytics projects with Python, SQL Server, and Power BI. I’m interested in using data to understand business performance, improve reporting, and support better marketing decisions.
 
----
+## Featured projects
 
-## My Technical & Analytical Toolbox
-* **Data Analytics & Scripting:** Python (Pandas, NumPy, OOP, Pygame Framework)
-* **Database Management:** Microsoft SQL Server, T-SQL (Advanced Schema Design, Analytical Views, Query Optimization)
-* **Business Intelligence:** Power BI (Semantic Star-Schema Modeling, Custom DAX Expressions)
-* **Domain Subject Matter Expertise:** Institutional Market Structure (SMC / ICT Mechanics), Order Block (OB) & Fair Value Gap (FVG) Validation Analytics, Commercial Optimization, Data-Driven Marketing Strategy
+- [Marketing data analytics portfolio](https://github.com/Jzeus222/MarketingDataAnalyticsPortfolio) — SQL Server, Python, Excel, and Power BI work on product and inventory data.
+- [Trading history analytics pipeline](https://github.com/Jzeus222/TradingHistoryDataAnalyticsPortfolio) — a Python, SQL Server, and Power BI project using historical paper-trading data. Results are simulated and are not evidence of live trading performance.
+- [Heaven-Sent UI System](https://github.com/Jzeus222/Heaven-Sent-UI-System) — an object-oriented Python and Pygame graphics project.
 
----
+## Tools
 
-## Featured Portfolio Pillars
+- **Analytics:** Python, Pandas, NumPy
+- **Databases:** SQL Server, T-SQL
+- **Business intelligence:** Power BI, DAX
+- **Other:** Excel, Pygame
 
-### Trading History Analytics & Risk Engine (SMC / ICT Audit)
-An end-to-end data pipeline engineered to audit trading performance metrics across institutional structural setups.
-* **The ETL Pipeline:** Built a custom Python automation script to ingest and sanitize raw platform execution logs, enforcing strict type safety on float values.
-* **The SQL Server Layer:** Modeled an ACID-compliant relational schema (`TradingIntelligenceDB`). Offloaded heavy compute tasks by building database views (`v_WinLossMetrics`) that filter exclusively on `Exit` execution legs, programmatically eliminating double-counting anomalies from raw entry/exit transaction data pairs.
-* **The BI Risk Core:** Surfaced data in Power BI utilizing a Star Schema and custom DAX calculations to track institutional parameters—including dynamic strategy win rates and a running historical peak-to-trough account drawdown monitor.
-
-### Marketing Optimization Case Study (Coco Bliss)
-A commercial business intelligence study leveraging SQL and Python data packages to audit operational performance vectors for a small-and-medium enterprise, parsing consumer behavioral matrices to maximize marketing ROI.
-
-### Heaven-Sent UI System
-A custom object-oriented graphics rendering engine built entirely from scratch in Python utilizing vector math logic and Pygame framework architectures.
+I’m interested in Data Analyst, BI Analyst, and Marketing Analyst opportunities.
 
 ---
 
-## Growth Mindset & Continuous Learning
-* **Always expanding my stack:** Having built this entire portfolio through self-directed learning, I am constantly exploring new technologies. I am currently diving into cloud data environments and advanced data automation tracking frameworks.
-* **Open to Opportunities:** Eager to bring this blend of technical analytical engineering and commercial marketing strategy into a high-impact **Data Analyst**, **BI Analyst**, or **Marketing Revenue Analyst** role.
-  
----
-
-### Developed by **Jesus Kazaji**
-*Connect with me if you'd like to collaborate or chat about data analytics, financial market structures, or growth marketing strategies!*
-* **Email:** *jesusujjkazaji@gmail.com*
+Developed by Jesus Kazaji.
