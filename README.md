@@ -1,4 +1,4 @@
-# Jesus Kazaji | Marketing Technology(MarTech) & Data Analytics
+# Jesus Kazaji | Marketing Technology & Data Analytics
 
 BCom Marketing Management student building practical analytics projects with Python, SQL Server, and Power BI. I’m interested in using data to understand business performance, improve reporting, and support better marketing decisions.
 
