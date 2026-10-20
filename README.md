@@ -1,4 +1,4 @@
-# Jesus Kazaji | Marketing & Data Analytics
+# Jesus Kazaji | Marketing Technology(MarTech) & Data Analytics
 
 BCom Marketing Management student building practical analytics projects with Python, SQL Server, and Power BI. I’m interested in using data to understand business performance, improve reporting, and support better marketing decisions.
 
@@ -15,7 +15,17 @@ BCom Marketing Management student building practical analytics projects with Pyt
 - **Business intelligence:** Power BI, DAX
 - **Other:** Excel, Pygame
 
-I’m interested in Data Analyst, BI Analyst, and Marketing Analyst opportunities.
+## Development Methodology & Tech Stack
+
+These portfolios represent my ability to bridge business logic with modern technology. 
+
+Rather than writing low-level code from scratch, my workflow focuses on **AI Orchestration & Advanced Prompt Engineering**. I leverage generative AI tools to write, refactor, and structure code, while I handle the system architecture, debugging, formatting, and marketing logic. 
+
+- **Core Strategy & Domain Expertise:** BCom Marketing Management, SME Commercial Optimization, Data Mapping.
+- **Development Workflow:** AI-Assisted Scripting, Prompt Engineering, Low-Code Frameworks.
+- **Tools Handled:** Python (Pandas), SQL Server, Power BI, Advanced Excel.
+
+I’m interested in Marketing Technology (Martech), Marketing & BI Data Analyst, Marketing Automation and Marketing Operations opportunities.
 
 ---
 
