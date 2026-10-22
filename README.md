@@ -25,7 +25,7 @@ Rather than writing low-level code from scratch, my workflow focuses on **AI Orc
 - **Development Workflow:** AI-Assisted Scripting, Prompt Engineering, Low-Code Frameworks.
 - **Tools Handled:** Python (Pandas), SQL Server, Power BI, Advanced Excel.
 
-I’m interested in Marketing Technology (Martech), Marketing & BI Analyst, Marketing Automation and Marketing Operations opportunities.
+I’m interested in Marketing Technology (Martech), Marketing & Business Intelligence  Analyst, Marketing Automation and Marketing Operations opportunities.
 
 ---
 
