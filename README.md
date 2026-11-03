@@ -6,9 +6,9 @@ BCom Marketing Management student building practical analytics projects with Pyt
 
 - [Marketing data analytics portfolio](https://github.com/Jzeus222/MarketingDataAnalyticsPortfolio) — SQL Server, Python, Excel, and Power BI work on product and inventory data.
 - [Trading history analytics pipeline](https://github.com/Jzeus222/TradingHistoryDataAnalyticsPortfolio) — a Python, SQL Server, and Power BI project using historical paper-trading data. Results are simulated and are not evidence of live trading performance.
-- [Heaven-Sent UI System](https://github.com/Jzeus222/Heaven-Sent-UI-System) — an object-oriented Python and Pygame graphics project.
 - [Academic Research Portfolio](https://github.com/Jzeus222/Academic-Research-Business-Management-and-Project-Management) - An academic portfolio featuring ERP risk analysis for Shoprite Group and a critical path infrastructure analysis using Microsoft Excel and EdrawMax Frameworks.
-  
+- [Heaven-Sent UI System](https://github.com/Jzeus222/Heaven-Sent-UI-System) — an object-oriented Python and Pygame graphics project.
+
 ## Tools
 
 - **Analytics:** Python, Pandas, NumPy
