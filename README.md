@@ -20,7 +20,7 @@ BCom Marketing Management student building practical analytics projects with Pyt
 
 These portfolios represent my ability to bridge business logic with modern technology. 
 
-Rather than writing low-level code from scratch, my workflow focuses on **AI Orchestration & Advanced Prompt Engineering**. I leverage generative AI tools to write, refactor, and structure code, while I handle the system architecture, debugging, formatting, and marketing logic. 
+I build end-to-end data pipelines and commercial models using **Python (Pandas), T-SQL, and Power BI**, leveraging **AI-assisted development workflows** to accelerate boilerplate scripting and refactoring while personally owning system architecture, database modeling, validation, and marketing logic.
 
 - **Core Strategy & Domain Expertise:** BCom Marketing Management, SME Commercial Optimization, Data Mapping.
 - **Development Workflow:** AI-Assisted Scripting, Prompt Engineering, Low-Code Frameworks.
